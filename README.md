@@ -1,6 +1,4 @@
-Writing a GitHub README file is essential to explain what the code does, how to use it, and any other relevant information for potential users or contributors. Here’s a basic template for the README file for the provided calculator program:
 
----
 
 # Simple Calculator Program
 
